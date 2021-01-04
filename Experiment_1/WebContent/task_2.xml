@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student_info>
+<student sid="01">                                
+   <regno>170</regno>
+   <name>Askar</name>    
+   <avg>92</avg>
+   <dob>15-09-1992</dob>  
+   <time>5:15</time>       
+ <mobileno>1234567891</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student sid="02">                                
+   <regno>171</regno>
+   <name>Zain</name>    
+   <avg>85</avg>
+   <dob>12-12-1993</dob>  
+   <time>5:40</time>       
+   <mobileno>6582741233</mobileno>                          
+   <distinction>YES</distinction>
+ </student>
+ <student sid="03">                                
+   <regno>172</regno>
+   <name>Benny</name>    
+   <avg>95</avg>
+   <dob>11-01-1990</dob>  
+   <time>7:10</time>       
+  <mobileno>7896541234</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student sid="04">                                
+   <regno>173</regno>
+   <name>Haaye</name>    
+   <avg>92</avg>
+   <dob>10-10-1992</dob>  
+   <time>6:15</time>       
+   <mobileno>5693852147</mobileno>                          
+   <distinction>YES</distinction>
+ </student>
+ <student sid="05">                                
+   <regno>174</regno>
+   <name>Esha</name>   
+   <avg>50</avg>
+   <dob>10-10-1992</dob>  
+   <time>7:20</time>       
+   <mobileno>4578965215</mobileno>                     
+   <distinction>NO</distinction>
+ </student>
+ </Student_info>

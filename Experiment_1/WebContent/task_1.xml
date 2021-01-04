@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+<student sid="1">
+<name>Sara</name>
+<id>1900</id>
+<branch> IT </branch>
+<cgpa> 10 </cgpa>
+</student>
+<student sid="2">
+<name>John</name>
+<id>1901</id>
+<branch>EEE</branch>
+<cgpa> 9 </cgpa>
+</student>
+<student sid="3">
+<name>Annie</name>
+<id>1902</id>
+<branch>MECH</branch>
+<cgpa> 7 </cgpa>
+</student>
+<student sid="4">
+<name>Williams</name>
+<id>1903</id>
+<branch>ECE</branch>
+<cgpa>8</cgpa>
+</student>
+<student sid="5">
+<name>Unice</name>
+<id>1904</id>
+<branch>CSE</branch>
+<cgpa> 9</cgpa>
+</student>
+</Student>
