@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+input[type=text], select, textarea{
+  width: 100%;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-size: auto;
+  resize: vertical;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 75%;
+}
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+input[type=Submit] {
+  background-color: #8080c0;
+  color: black;
+  padding: 15px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 150%;
+}
+.container {
+  border-radius: 5px;
+  background-color: #FFB6C1;
+  padding: 20px;
+}
+.col-25 {
+  float: left;
+  width: 10%;
+  margin-top: 6px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 150%;
+}
+.col-75 {
+  float: left;
+  width: 50%;
+  margin-top: 8px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 150%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
